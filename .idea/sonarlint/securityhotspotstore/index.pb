@@ -106,3 +106,17 @@ Q.idea/sonarlint/securityhotspotstore/2/a/2afbb999f001938c88fa43fc2ef52abf0f8213
 Q.idea/sonarlint/securityhotspotstore/2/a/2a45a911a8f1836b0b6c5b758962572012d8f8c3,1/0/1017d171139053a6ceaff055b7159ba14e80dc44
 Å
 Q.idea/sonarlint/securityhotspotstore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,3/0/30205a209c6ce77c4cfc19a09e6f57c588b7fb88
+q
+Aapp/src/main/java/com/coroutinesample/coroutine/CoroutineDemo1.kt,e/a/ea4e086b4c19be421a94c067a7e3ab286583f0d4
+t
+Dapp/src/main/java/com/coroutinesample/coroutine/LaunchVsAsyncDemo.kt,7/7/77747546f185e7610c90e8d73b0a8c28d0ae1a44
+r
+Bapp/src/main/java/com/coroutinesample/coroutine/WithContextDemo.kt,1/4/14d3f69ad714167206781bfacb94cb813bfd9408
+Å
+Qapp/src/main/java/com/coroutinesample/coroutine/coroutineScope/GlobalScopeDemo.kt,2/7/27b2b1f19f5b334070b8abbbb75dc4a771a7a9a8
+Ñ
+Tapp/src/main/java/com/coroutinesample/coroutine/coroutineScope/CoroutineScopeDemo.kt,b/1/b181fa68454af88d3e3b31460b2e29fc06ccd07f
+Ö
+Uapp/src/main/java/com/coroutinesample/coroutine/coroutineScope/SupervisorScopeDemo.kt,5/b/5b77420fd87b4e94690bf2c2fc7d8dba5e126bdd
+ä
+Zapp/src/main/java/com/coroutinesample/coroutine/exceptionhandling/ExceptionHandlingDemo.kt,5/6/56266270454ab596b323f1e1a16e2c78b01d6fed

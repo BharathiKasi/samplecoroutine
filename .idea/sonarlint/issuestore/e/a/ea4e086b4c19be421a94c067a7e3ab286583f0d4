@@ -1,0 +1,4 @@
+
+akotlin:S6310"Avoid hardcoded dispatchers.(Ô¥‚ü8àñ‹½2J$3d30cf41-5672-4b04-8f22-a98fcc11cd56
+fkotlin:S6310"Avoid hardcoded dispatchers.(äÕ”øÿÿÿÿ8¾È½2J$5b049ca8-70c0-4d70-8773-59afae41410f
+kotlin:S6306"TUsing "GlobalScope" here leads to the breaking of structured concurrency principles.(äÕ”øÿÿÿÿ8¿È½2J$b9f62aee-45e6-48aa-9847-1562d3046e85
